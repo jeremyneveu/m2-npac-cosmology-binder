@@ -18,3 +18,4 @@ dependencies:
 - pyccl
 - camb
 - ipywidgets
+- ipympl
